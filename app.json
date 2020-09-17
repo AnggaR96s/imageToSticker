@@ -1,0 +1,16 @@
+{
+  "name": "WhatsAppBot",
+  "description": "WhatsApp Bot",
+  "keywords": [
+    "whatsapp"
+  ],
+  "repository": "https://github.com",
+  "website": "https://angga.studio",
+  "stack": "container",
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+}
